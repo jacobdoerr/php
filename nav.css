@@ -1,0 +1,11 @@
+.banner {
+	height: 100px;
+	background: #af2323;
+}
+
+.logo {
+	height: 100px;
+	width: 400px;
+	float: left;
+	background-image:url('../images/jtdeditsLogo.png');
+}

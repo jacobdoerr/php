@@ -4,8 +4,10 @@
 }
 
 .logo {
-	height: 100px;
-	width: 400px;
+	max-height:100px;
+	height: auto;
+	max-with:288px;
+	width: auto;
 	float: left;
 	background-image:url('../images/jtdeditsLogo.png');
 }
@@ -15,5 +17,6 @@ div{
 }
 
 body{
+	margin: 0;
 	font-family: Helvetica;
 }

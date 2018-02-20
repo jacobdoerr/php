@@ -22,7 +22,7 @@ body{
 	background: #ce7227;
 }
 
-#navbar{
+.navbar{
 	display: inline;
 	float: right;
 	list-style: none;

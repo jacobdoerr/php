@@ -1,13 +1,13 @@
 .banner {
-	height: 200px;
+	height: 150px;
 	background: #af2323;
 	border-bottom: 10px solid #000;
 }
 
 .logo {
-	max-height:300px;
+	max-height:225px;
 	height: auto;
-	max-width:750px;
+	max-width:562px;
 	width: auto;
 	float: left;
 }
@@ -24,13 +24,19 @@ body{
 
 li{
 	display: inline;
-	border-left: solid 1px #758190;
+	border-left: solid 1px #000;
 	padding: 0 10px;
 	color: #000;
 }
 
 .first{
 	border-left: none;
+}
+
+.content{
+	margin: 20px 30px;
+	padding:20px 20px;
+	background-color: white;
 }
 
 #footer{

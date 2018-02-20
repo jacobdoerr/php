@@ -22,7 +22,34 @@ body{
 	background: #ce7227;
 }
 
-li{
+.banner > li{
+	display: inline;
+	float: right;
+	list-style: none;
+	position: relative;
+}
+
+.banner a:hover{
+	color: #000;
+}
+
+.banner a::before{
+	content:'';
+	display: block;
+	height: 5px;
+	position: absolule;
+	top: 0;
+	width: 0%;
+	transition: all ease-in-out 250ms;
+}
+
+.bannner a:hover::before{
+	width: 100%;
+}
+
+
+
+#footer > li{
 	display: inline;
 	border-left: solid 1px #000;
 	padding: 0 10px;

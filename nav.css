@@ -22,8 +22,11 @@ body{
 	background: #ce7227;
 }
 
-.navbar{
+ul{
 	list-style: none;
+}
+
+.navbar{
 	display: inline;
 	float: right;
 

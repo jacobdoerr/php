@@ -19,4 +19,25 @@ div{
 body{
 	margin: 0;
 	font-family: Helvetica;
+	background: #ce7227;
 }
+
+li{
+	display: inline;
+	border-left: solid 1px #758190;
+	padding: 0 10px;
+	color: #000;
+}
+
+.first{
+	border-left: none;
+}
+
+#footer{
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	font-size: 15px;
+}
+
+

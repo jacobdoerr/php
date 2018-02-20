@@ -23,9 +23,10 @@ body{
 }
 
 .navbar{
+	list-style: none;
 	display: inline;
 	float: right;
-	list-style: none;
+
 }
 
 .banner a:hover{

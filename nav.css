@@ -34,9 +34,10 @@ li{
 }
 
 .content{
-	margin: 20px 30px;
+	margin: 30px 30px;
 	padding:20px 20px;
 	background-color: white;
+	border: 5px solid #000;
 }
 
 #footer{

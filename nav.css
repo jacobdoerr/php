@@ -22,7 +22,7 @@ body{
 	background: #ce7227;
 }
 
-.banner > li{
+#navbar{
 	display: inline;
 	float: right;
 	list-style: none;
@@ -40,7 +40,7 @@ body{
 	color: #000;
 }
 
-.first{
+#footer > li.first{
 	border-left: none;
 }
 

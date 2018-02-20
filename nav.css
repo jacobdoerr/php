@@ -5,9 +5,9 @@
 }
 
 .logo {
-	max-height:100px;
+	max-height:200px;
 	height: auto;
-	max-width:288px;
+	max-width:500px;
 	width: auto;
 	float: left;
 	background-image:url('../images/jtdeditsLogo.png');
